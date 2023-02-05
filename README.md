@@ -1,2 +1,2 @@
-# Welcome to my Github Page.
-### The name is Khalyl Dammas, Junior at University of Jeddah, Artificial Intelligince department.
+# Welcom to my lab.
+### Here are projects some of my projects.
