@@ -1,2 +1,2 @@
-# Welcom to my lab.
-### In projects file there are some of my projects.
+# Welcom to my playground.
+### Here are some of my projects.
